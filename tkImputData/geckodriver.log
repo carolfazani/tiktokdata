@@ -1,0 +1,416 @@
+1658433210514	geckodriver	INFO	Listening on 127.0.0.1:57618
+1658433213675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "57619" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileiHjLu1"
+1658433228018	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileiHjLu1\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:57619/devtools/browser/2b36337c-905d-4663-867a-bf0465ca217b
+1658433259154	Marionette	INFO	Listening on port 57624
+1658433259550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMACPSKCAQAAQ-H17tfkV0t1mIfQrrRR6GfmFYxZUvVSPq9Rfj_FR9xZryQe&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+[Child 8756, MediaDecoderStateMachine #1] WARNING: 1ddc8a224a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8756, MediaDecoderStateMachine #1] WARNING: 1ddc1982040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8756, MediaDecoderStateMachine #1] WARNING: 1ddc3efbd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8756, MediaDecoderStateMachine #2] WARNING: 1ddc3efb900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8756, MediaDecoderStateMachine #4] WARNING: 1ddc3efb580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658434109583	Marionette	INFO	Stopped listening on port 57624
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMACPSKCAQAAQ-H17tfkV0t1mIfQrrRR6GfmFYxZUvVSPq9Rfj_FR9xZryQe&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 7440, MediaDecoderStateMachine #1] WARNING: 221321b5040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7440, MediaDecoderStateMachine #1] WARNING: 2212b2bf660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7440, MediaDecoderStateMachine #1] WARNING: 22123c8fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7440, MediaDecoderStateMachine #1] WARNING: 22123c8f3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7440, MediaDecoderStateMachine #1] WARNING: 22123c31660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7440, MediaDecoderStateMachine #1] WARNING: 22123c31660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 7440, MediaDecoderStateMachine #1] WARNING: 2212b7e1580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7440, MediaDecoderStateMachine #2] WARNING: 2212aac19e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7440, MediaDecoderStateMachine #3] WARNING: 2212aac1660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658434111010	Marionette	INFO	Stopped listening on port 57776
+[Parent 4144, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+a\\AppData\\Local\\Temp\\rust_mozprofilejE6l0X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57925/devtools/browser/d0038b24-86f7-4a69-a6b6-f97d64758e62
+1658433738146	Marionette	INFO	Listening on port 57930
+1658433740357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AAB6WCKCAQAAoRcFx-Jzo6VCP7A0-D3cNZHkHTisxdNNq6MjeY6PlX_Axbfl&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+[Child 2944, MediaDecoderStateMachine #1] WARNING: 28e8f50cd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658433776192	Marionette	INFO	Stopped listening on port 57930
+[Parent 3084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1658506326273	geckodriver	INFO	Listening on 127.0.0.1:50155
+1658506329513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "50156" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofile5jJKIT"
+1658506337602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofile5jJKIT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50156/devtools/browser/515b13d2-8b08-450a-95cb-529484b536f7
+1658506366989	Marionette	INFO	Listening on port 50161
+1658506367639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AAAcoyaCAQAAcdQ1dwOytuBj8IHTyZmXUPbWTbQc4OCnuMP4Re6f9jSMyQjQ&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2848, MediaDecoderStateMachine #1] WARNING: 1fdef51e660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658506411819	Marionette	INFO	Stopped listening on port 50161
+[Parent 2816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+1658506917351	geckodriver	INFO	Listening on 127.0.0.1:50270
+1658506920306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "50271" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofilebdDRRq"
+1658506921990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofilebdDRRq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50271/devtools/browser/a5dbbc93-b667-47e1-900c-736be80be369
+1658506931351	Marionette	INFO	Listening on port 50276
+1658506931917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AAAcoyaCAQAAcdQ1dwOytuBj8IHTyZmXUPbWTbQc4OCnuMP4Re6f9jSMyQjQ&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1824, MediaDecoderStateMachine #1] WARNING: 1cab76422e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1824, MediaDecoderStateMachine #1] WARNING: 1caa7990120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1824, MediaDecoderStateMachine #1] WARNING: 1caa5bb63c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658506988009	Marionette	INFO	Stopped listening on port 50276
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1658507117849	geckodriver	INFO	Listening on 127.0.0.1:50372
+1658507120891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "50373" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileDWdpvR"
+1658507123017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileDWdpvR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50373/devtools/browser/18a10213-2d86-4e02-9c0b-58ba6c3ea096
+1658507130902	Marionette	INFO	Listening on port 50378
+1658507131629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AAAcoyaCAQAAcdQ1dwOytuBj8IHTyZmXUPbWTbQc4OCnuMP4Re6f9jSMyQjQ&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2404, MediaDecoderStateMachine #1] WARNING: 1d876d80c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2404, MediaDecoderStateMachine #1] WARNING: 1d867705ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658507189410	Marionette	INFO	Stopped listening on port 50378
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1658518391637	geckodriver	INFO	Listening on 127.0.0.1:50554
+1658518394714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "50555" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofile1iWAg7"
+1658518404307	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofile1iWAg7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50555/devtools/browser/798c895e-1d3f-432c-bbbc-3c3eb134ca05
+1658518431999	Marionette	INFO	Listening on port 50560
+1658518432299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBeYyeCAQAAg3J8ABtTf-N6DpM6G5jP8Jgy_Efwfvjv4GGQL9TthW0mpUBU&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8248, MediaDecoderStateMachine #1] WARNING: 1b01e298120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8248, MediaDecoderStateMachine #1] WARNING: 1b023e71200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8248, MediaDecoderStateMachine #1] WARNING: 1b01e27c120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8248, MediaDecoderStateMachine #1] WARNING: 1b01e27c120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8248, MediaDecoderStateMachine #1] WARNING: 1b025e59120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658518808420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658519466696	Marionette	INFO	Stopped listening on port 50560
+[Parent 1948, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1658519505506	geckodriver	INFO	Listening on 127.0.0.1:50725
+1658519508541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "50726" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofilemZsi9r"
+1658519510416	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofilemZsi9r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50726/devtools/browser/f41c4df7-16cd-4902-a3e7-7d6e1bab5670
+1658519518207	Marionette	INFO	Listening on port 50731
+1658519518813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBeYyeCAQAAg3J8ABtTf-N6DpM6G5jP8Jgy_Efwfvjv4GGQL9TthW0mpUBU&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+[Child 3080, MediaDecoderStateMachine #1] WARNING: 1bd3fd574a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658519570514	Marionette	INFO	Stopped listening on port 50731
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1658519583335	geckodriver	INFO	Listening on 127.0.0.1:50842
+1658519586413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "50843" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileyqTYxD"
+1658519587695	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileyqTYxD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50843/devtools/browser/d3a5e229-121f-49e5-97af-366e04c72287
+1658519595992	Marionette	INFO	Listening on port 50848
+1658519596698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBeYyeCAQAAg3J8ABtTf-N6DpM6G5jP8Jgy_Efwfvjv4GGQL9TthW0mpUBU&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9816, MediaDecoderStateMachine #1] WARNING: 2553762e820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+[Child 9816, MediaDecoderStateMachine #1] WARNING: 2552b86f120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9816, MediaDecoderStateMachine #1] WARNING: 25532f0a820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9816, MediaDecoderStateMachine #3] WARNING: 25535568f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658523465941	Marionette	INFO	Stopped listening on port 50848
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1658526044764	geckodriver	INFO	Listening on 127.0.0.1:51032
+1658526047892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "51033" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofilef1BimZ"
+1658526050062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofilef1BimZ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:51033/devtools/browser/86b63c8e-9eed-4eda-bcdf-c2585ee06536
+1658526063568	Marionette	INFO	Listening on port 51038
+1658526064222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMA70SeCAQAAt5GScbg4DixmNV6Y0x2aS3uGDEiZ6QuEn34jd_-Cu63KP-k-&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+[Child 7348, MediaDecoderStateMachine #1] WARNING: 1fbccba3d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7348, MediaDecoderStateMachine #1] WARNING: 1fbcdcaaac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7348, MediaDecoderStateMachine #1] WARNING: 1fbccba34a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7348, MediaDecoderStateMachine #2] WARNING: 1fbccba34a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7348, MediaDecoderStateMachine #3] WARNING: 1fbccba34a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7348, MediaDecoderStateMachine #3] WARNING: 1fbccba34a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7348, MediaDecoderStateMachine #3] WARNING: 1fbccba34a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658528379137	Marionette	INFO	Stopped listening on port 51038
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+m Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "51258" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofilePTBeHS"
+1658526763831	geckodriver	INFO	Listening on 127.0.0.1:51271
+1658526766890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "51272" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileewFOKr"
+1658526768366	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileewFOKr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51272/devtools/browser/e620cc64-7606-4e23-892c-27f65e2a881b
+1658526780669	Marionette	INFO	Listening on port 51277
+1658526780777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMA70SeCAQAAt5GScbg4DixmNV6Y0x2aS3uGDEiZ6QuEn34jd_-Cu63KP-k-&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+1658528375275	Marionette	INFO	Stopped listening on port 51277
+8526931862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "51399" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileb6xHgb"
+1658526933251	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileb6xHgb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51399/devtools/browser/c00e0ef9-f64e-4728-9d45-9473a8dd7e1c
+1658526942893	Marionette	INFO	Listening on port 51404
+1658526943589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMA70SeCAQAAt5GScbg4DixmNV6Y0x2aS3uGDEiZ6QuEn34jd_-Cu63KP-k-&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f9984820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f99f9ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f9984d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f9984c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f9984d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f9984820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f994ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f994ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f994ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f994ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f994ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f994ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f994ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f994ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f994ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f994ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7924, MediaDecoderStateMachine #1] WARNING: 1a2f238c120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658528375279	Marionette	INFO	Stopped listening on port 51404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+naca\\AppData\\Local\\Temp\\rust_mozprofileZAS1uB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51569/devtools/browser/6e885d17-8be6-4db6-9dc1-6ea834db09e9
+1658528238759	Marionette	INFO	Listening on port 51574
+1658528239432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AACz7CeCAQAAVndaw6QV6QthYZjMw5o6qu9oMSUCyKslkEwPOfMPdC2iTDlc&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.355/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9676, MediaDecoderStateMachine #1] WARNING: 1c486647ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+[Child 9676, MediaDecoderStateMachine #1] WARNING: 1c482bc3040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9676, MediaDecoderStateMachine #1] WARNING: 1c482bc3740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9676, MediaDecoderStateMachine #1] WARNING: 1c4845cfe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9676, MediaDecoderStateMachine #1] WARNING: 1c482bc32e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1658528379263	Marionette	INFO	Stopped listening on port 51574
+
+###!!! [Child][PImageBridgeChild] Error: Send(msgname=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1658528513334	geckodriver	INFO	Listening on 127.0.0.1:51709
+1658528516396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "51710" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileX48Zxu"
+1658528518289	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileX48Zxu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51710/devtools/browser/1d468e85-59f9-4608-90e3-3968978fc7ab
+1658528530821	Marionette	INFO	Listening on port 51715
+1658528530913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1659103333616	geckodriver	INFO	Listening on 127.0.0.1:49880
+1659103337726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "49881" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofile25t5Ox"
+1659103359179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofile25t5Ox\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:49881/devtools/browser/4d069834-a042-4f6a-84b8-f4a68a0de7ab
+1659103405736	Marionette	INFO	Listening on port 49886
+1659103481258	geckodriver	INFO	Listening on 127.0.0.1:49986
+1659103484310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "49987" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofilePRvxUd"
+1659103486387	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofilePRvxUd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49987/devtools/browser/1f1be7c0-cab1-496e-b624-08cb5ebe9207
+1659103495500	Marionette	INFO	Listening on port 49992
+1659103496957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.390/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADDQUqCAQAAcFKKAAUxquKP8nNAUOBX7j9MF-suqCIvWuQ2dTj1Obg4Nqer&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ibytedtos.com/obj/rc-web-sdk-gcs/webmssdk_ex/1.0.0.23/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+[Child 8484, MediaDecoderStateMachine #1] WARNING: 1d31aeae3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8484, MediaDecoderStateMachine #1] WARNING: 1d31e0e6200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8484, MediaDecoderStateMachine #1] WARNING: 1d31e0e6200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1659103570319	Marionette	INFO	Stopped listening on port 49992
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1659104083197	geckodriver	INFO	Listening on 127.0.0.1:50183
+1659104086242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--dns-prefetch-disable" "--remote-debugging-port" "50184" "-no-remote" "-profile" "C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileV36Zqc"
+1659104089926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anaca\\AppData\\Local\\Temp\\rust_mozprofileV36Zqc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50184/devtools/browser/be497da2-ab51-4704-a249-103d068c36d7
+1659104106807	Marionette	INFO	Listening on port 50189
+1659104107076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.390/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADDQUqCAQAAcFKKAAUxquKP8nNAUOBX7j9MF-suqCIvWuQ2dTj1Obg4Nqer&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-desktop/npm-async-eb873fff.d7dd851a64730a4885e2.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk_ex/1.0.0.23/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8948, MediaDecoderStateMachine #1] WARNING: 25bff903120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1655: TypeError: this._pc is undefined
+[Child 8948, MediaDecoderStateMachine #1] WARNING: 25beadd3660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8948, MediaDecoderStateMachine #1] WARNING: 25beadd3660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1659104163524	Marionette	INFO	Stopped listening on port 50189
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+

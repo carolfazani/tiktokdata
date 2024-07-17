@@ -1,6 +1,7 @@
 import sys
 import mysql.connector
 from mysql.connector import Error
+impor os
 
 class  Mydb:
     def __init__(self):
@@ -10,11 +11,11 @@ class  Mydb:
     def open(self):
         try:
             self.mydb = mysql.connector.connect(
-                host="127.0.0.1",
-                port="3306",
-                user="root",
-                passwd="84907350caio***",
-                database="tk_data",
+                host= os.environ['host'],
+                port= os.environ['port'],
+                user= os.environ['user'],
+                passwd= os.environ['passwd'],
+                database= os.environ['database'],
                 # charset="utf8mb4",
                 # collation="utf8mb4_general_ci",
                 auth_plugin="mysql_native_password"
